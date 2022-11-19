@@ -1,5 +1,6 @@
 # m03-solution
-solution to m03 and changes made from my solution
+solution to m03 with specific annotations of what was changed from my solution
+
 
 ALL CHANGES:
 matched the curly brace on line 16.
